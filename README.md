@@ -2,7 +2,9 @@
 
 📊 Jornalista migrando para o universo dos dados, unindo a bagagem em comunicação estratégica à inteligência analítica.
 
-🎓 Cursando Análise de Dados na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
+🎓 Estudante de Sistemas da Informação
+
+🎓 Formada em Análise de Dados pela Escola Britânica de Artes Criativas e Tecnologia (EBAC)
 
 👩🏾‍💻 Bootcamp de Dados do [RE]Start – Data Girls | Minas Programam (introdução à programação com HTML, CSS e JavaScript)
 
